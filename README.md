@@ -172,7 +172,7 @@ git clean -f
 git clean -d -f
 ```
 
-## Fix ups (rebase)
+## Fix Ups (rebase)
 
 A clean Git commit history helps to better understand the changes on the codebase.
 Commits that only fix other commits bloating the commit history.
