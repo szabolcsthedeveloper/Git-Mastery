@@ -378,7 +378,7 @@ commit id:"c" type: HIGHLIGHT
 commit id:"d" type: HIGHLIGHT
 ```
 
-#### Squash and merge
+#### Squash and Merge
 
 All commits of the feature branch will be squashed into a
 single commit that will be added to the main branch.
