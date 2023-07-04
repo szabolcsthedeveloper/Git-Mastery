@@ -571,7 +571,7 @@ origin	git@github.com:szabolcsthedeveloper/szabolcsthedeveloper.github.io.git (f
 origin	git@github.com:szabolcsthedeveloper/szabolcsthedeveloper.github.io.git (push)
 ```
 
-## Change your remote's URL
+## Change your remote's URL from SSH to HTTPS
 
 - Change your remote's URL from SSH to HTTPS with the `git remote set-url` command.
 
