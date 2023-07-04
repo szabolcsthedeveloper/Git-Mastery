@@ -172,7 +172,7 @@ git clean -f
 git clean -d -f
 ```
 
-## Fix ups (rebase)
+## Fix Ups (rebase)
 
 A clean Git commit history helps to better understand the changes on the codebase.
 Commits that only fix other commits bloating the commit history.
@@ -378,7 +378,7 @@ commit id:"c" type: HIGHLIGHT
 commit id:"d" type: HIGHLIGHT
 ```
 
-#### Squash and merge
+#### Squash and Merge
 
 All commits of the feature branch will be squashed into a
 single commit that will be added to the main branch.
