@@ -99,11 +99,11 @@ Survey on Pains and Best Practices of Code Review.
 
 ## Commit messages
 
-Good commit messages helps other developers to understand the changes in your codebase.
+Good commit messages help other developers to understand the changes in your codebase.
 Therefore, you should explain the what and the why of a change.
-Additionally, commit messages should be consistent to improve the readability.
+Additionally, commit messages should be consistent to improve readability.
 
-The commit message should be written in a way that it could
+The commit message should be written in a way that could
 complete the following sentence:
 
 *If applied, this commit will* `[commit message]`.
@@ -112,11 +112,11 @@ Example: *If applied, this commit will* `Add Docker setup for server`.
 
 Some rules for good commit messages:
 
-- Keep subject line short (50 chars)
+- Keep the subject line short (50 chars)
 - Consistent capitalization (preferred 'Refactor …' instead of 'refactor …')
 - Imperative mood ('Add' instead of 'added')
 
-If you want to incorporate more information in a commit message use
+If you want to incorporate more information in a commit message using
 the following format:
 
 ```txt
